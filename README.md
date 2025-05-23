@@ -68,10 +68,11 @@ library(car)
 📸 Visuals
 <img src="output/boxcox_analysis.png" alt="Box-Cox Plot" width="500"/>
 
-🧠 Author
-Charan Bokka
-🔗 https://www.linkedin.com/in/charan28
-📧 charannb3@gmail.com
+## 🧠 Author  
+**Charan Bokka**  
+Master of Science in Industrial Engineering | Texas Tech University  
+🔗 [LinkedIn](https://www.linkedin.com/in/charan28)  
+📧 [charannb3@gmail.com](mailto:charannb3@gmail.com)  
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
