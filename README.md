@@ -72,7 +72,7 @@ library(car)
 **Charan Bokka**  
 Master of Science in Industrial Engineering | Texas Tech University  
 🔗 [LinkedIn](https://www.linkedin.com/in/charan28)  
-📧 [charannb3@gmail.com](mailto:charannb3@gmail.com)  
+📧 [charannb3@gmail.com]  
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
