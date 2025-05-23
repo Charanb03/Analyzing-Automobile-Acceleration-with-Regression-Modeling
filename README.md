@@ -59,6 +59,13 @@ This repository contains R code and analysis to predict the **1/4 mile time (`qs
 
 ---
 
+## 🧠 Author  
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Charanb03)  
+📧 charannb3@gmail.com   
+
+
 ## 📦 Dependencies
 
 ```r
@@ -68,11 +75,6 @@ library(car)
 📸 Visuals
 <img src="output/boxcox_analysis.png" alt="Box-Cox Plot" width="500"/>
 
-## 🧠 Author  
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Charanb03)  
-📧 charannb3@gmail.com   
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -81,5 +83,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Let me know if you want this styled for a data science portfolio, to include binder links or Shiny apps, or if you'd like the `README` in a downloadable `.md` file format.
+
+
+
+
+
 
 
