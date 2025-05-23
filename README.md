@@ -69,10 +69,10 @@ library(car)
 <img src="output/boxcox_analysis.png" alt="Box-Cox Plot" width="500"/>
 
 ## 🧠 Author  
-**Charan Bokka**  
-Master of Science in Industrial Engineering | Texas Tech University  
-🔗 [LinkedIn](https://www.linkedin.com/in/charan28)  
-📧 [charannb3@gmail.com]  
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Charanb03)  
+📧 charannb3@gmail.com   
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
